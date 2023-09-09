@@ -4,7 +4,7 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-<img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg ">
+<img align="center"  height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg ">
 <img align= "center" height="40" widht="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
 <img align= "center" height="50" widht="70" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg">
    
